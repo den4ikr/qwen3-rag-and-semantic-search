@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "How to reinstall Windows 11",
+    "category": "Windows",
+    "text": "To reinstall Windows 11, first back up your important files. Create a bootable Windows 11 USB drive using Microsoft's Media Creation Tool. Restart the computer and boot from the USB drive. Choose the Windows installation option and select the drive where Windows should be installed. Follow the installation steps and wait for the computer to restart."
+  },
+  {
+    "id": "2",
+    "title": "How to update Windows 11",
+    "category": "Windows",
+    "text": "To update Windows 11, open Settings and go to Windows Update. Click Check for updates. If updates are available, click Download and install. Restart the computer if Windows requests a restart."
+  },
+  {
+    "id": "3",
+    "title": "How to install Python",
+    "category": "Programming",
+    "text": "To install Python on Windows, download the installer from the official Python website. Run the installer and enable the option to add Python to PATH. Continue with the default installation options. After installation, open a terminal and run python --version to verify that Python was installed correctly."
+  },
+  {
+    "id": "4",
+    "title": "How to create a Python virtual environment",
+    "category": "Programming",
+    "text": "To create a Python virtual environment, open a terminal in your project directory and run python -m venv .venv. Activate the environment with .venv\\Scripts\\activate on Windows or source .venv/bin/activate on macOS and Linux. When the environment is active, Python packages can be installed without affecting the global Python installation."
+  },
+  {
+    "id": "5",
+    "title": "How to install a Python package",
+    "category": "Programming",
+    "text": "To install a Python package, make sure your virtual environment is active and run pip install package_name in the terminal. For example, pip install requests installs the Requests library. You can verify installed packages with pip list."
+  },
+  {
+    "id": "6",
+    "title": "How to fix a leaking faucet",
+    "category": "Home Repair",
+    "text": "To fix a leaking faucet, first turn off the water supply. Remove the faucet handle and inspect the cartridge, washer, or O-ring. Replace the damaged component and reassemble the faucet. Turn the water supply back on and check whether the leak has stopped."
+  },
+  {
+    "id": "7",
+    "title": "How to unclog a kitchen sink",
+    "category": "Home Repair",
+    "text": "To unclog a kitchen sink, remove visible debris from the drain. Try using a plunger with enough water to cover the bottom of the plunger. If the blockage remains, clean the drain trap underneath the sink. Reassemble the trap and run water to check whether the sink drains normally."
+  },
+  {
+    "id": "8",
+    "title": "How to clean a laptop keyboard",
+    "category": "Computer Maintenance",
+    "text": "To clean a laptop keyboard, turn off the laptop and disconnect the power. Hold the laptop at an angle and gently remove loose dust and debris. Use compressed air carefully between the keys. For surface cleaning, use a soft microfiber cloth that is slightly damp, but do not pour liquid directly onto the keyboard."
+  },
+  {
+    "id": "9",
+    "title": "How to reset a Wi-Fi router",
+    "category": "Networking",
+    "text": "To restart a Wi-Fi router, disconnect its power cable and wait for about 30 seconds. Connect the power cable again and wait several minutes for the router to start. If restarting does not solve the problem, check the router configuration and internet connection."
+  },
+  {
+    "id": "10",
+    "title": "How to check internet connectivity",
+    "category": "Networking",
+    "text": "To check internet connectivity, first verify that your device is connected to the correct Wi-Fi network or Ethernet connection. Open a terminal and use the ping command to test connectivity to a known server. If the device cannot reach the server, restart the router and check the network configuration."
+  }
+]
